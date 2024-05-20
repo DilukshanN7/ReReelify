@@ -24,15 +24,11 @@ Replicate Instagram Theme Page Videos with Ease!
 <ol>
     <li><strong>Clone the Repository</strong>: Clone this repository to your local machine.</li>
     <pre><code>git clone https://github.com/yourusername/ReReelify.git</code></pre>
-
     <li><strong>Install Dependencies</strong>: Install the required Python packages.</li>
     <pre><code>pip install -r requirements.txt</code></pre>
-
     <li><strong>Configure Parameters</strong>: Adjust the parameters at the bottom of the script to customize your video processing.</li>
-
     <li><strong>Run the Script</strong>: Execute the script to start processing your videos.</li>
     <pre><code>python ReReelify.py</code></pre>
-
     <li><strong>Hugging Face Account</strong>: If prompted, provide your Hugging Face account credentials.</li>
 </ol>
 
@@ -45,8 +41,6 @@ Replicate Instagram Theme Page Videos with Ease!
     <li><strong>text_padding</strong>: Padding for the text from the video edges.</li>
     <li><strong>element_padding</strong>: Padding between logo, text, and video.</li>
 </ul>
-
-<p>We welcome contributions!</p>
 
 <h2>License</h2>
 <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
