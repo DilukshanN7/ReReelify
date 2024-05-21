@@ -34,6 +34,7 @@ Replicate Instagram Theme Page Videos with Ease!
     <li><strong>Hugging Face Account</strong>: Provide your Hugging Face account credentials in the 9th line.</li>
     <li><strong>Run the Script</strong>: Execute the script to start processing your videos.</li>
     <pre><code>python ReReelify.py</code></pre>
+</ol>
 
 <h2>Parameters</h2>
 <ul>
