@@ -18,19 +18,22 @@ Replicate Instagram Theme Page Videos with Ease!
 
 <h2>Note</h2>
 <p>Here's what your source video should look like:</p>
-<img src="path/to/example-image.jpg" alt="Example Source Video" class="example-image">
+<p float="left">
+<img src="https://github.com/DilukshanN7/ReReelify/assets/65407969/0ef7edc6-2ed5-4740-8ff3-c7867ec12017" alt="Example Source Video" class="example-image" height="480" width="270">
+</p>
 
 <h2>Instructions</h2>
 <ol>
+    <li><strong>Install Tesseract-OCR</li>
+    <pre><code>https://github.com/UB-Mannheim/tesseract/wiki</code></pre>
     <li><strong>Clone the Repository</strong>: Clone this repository to your local machine.</li>
     <pre><code>git clone https://github.com/yourusername/ReReelify.git</code></pre>
     <li><strong>Install Dependencies</strong>: Install the required Python packages.</li>
     <pre><code>pip install -r requirements.txt</code></pre>
     <li><strong>Configure Parameters</strong>: Adjust the parameters at the bottom of the script to customize your video processing.</li>
+    <li><strong>Hugging Face Account</strong>: Provide your Hugging Face account credentials in the 9th line.</li>
     <li><strong>Run the Script</strong>: Execute the script to start processing your videos.</li>
     <pre><code>python ReReelify.py</code></pre>
-    <li><strong>Hugging Face Account</strong>: If prompted, provide your Hugging Face account credentials.</li>
-</ol>
 
 <h2>Parameters</h2>
 <ul>
